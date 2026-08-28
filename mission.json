@@ -1,0 +1,31 @@
+{
+ "schema": "dogg/0-mission",
+ "dimension": "canon:@kody-w/dogg-canon",
+ "fields": [
+  {
+   "name": "RAR constitution size",
+   "path": "payload.canon.rar_constitution.bytes",
+   "unit": "bytes"
+  },
+  {
+   "name": "RAR constitution article count",
+   "path": "payload.canon.rar_constitution.articles",
+   "unit": "count"
+  },
+  {
+   "name": "rapp/1 SPEC size",
+   "path": "payload.canon.rapp1_spec.bytes",
+   "unit": "bytes"
+  },
+  {
+   "name": "dogg PROTOCOL size",
+   "path": "payload.canon.dogg_protocol.bytes",
+   "unit": "bytes"
+  }
+ ],
+ "default": [
+  "RAR constitution size",
+  "RAR constitution article count",
+  "rapp/1 SPEC size"
+ ]
+}
