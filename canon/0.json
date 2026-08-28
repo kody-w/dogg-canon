@@ -1,0 +1,35 @@
+{
+  "spec": "rapp/1",
+  "kind": "canon.snapshot",
+  "stream_id": "canon:@kody-w/dogg-canon",
+  "seq": 0,
+  "utc": "2026-08-28T17:49:19.622Z",
+  "payload": {
+    "tick": 465,
+    "tick_frame": "cb1bb7f89de1efbfced38889c067e30e3d74817f71173ab51ca7f9c32f877e93",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-28T17:49:19.622Z",
+    "canon": {
+      "rar_constitution": {
+        "sha256": "7f68cfc817f67cb502705023b8c812e9494d8bb20ea4ebd543f5b6bf2497e59c",
+        "bytes": 52403,
+        "articles": 22
+      },
+      "rapp1_spec": {
+        "sha256": "8212bbccaf86f2dc81bd07e2fcd5184f3a157f4eee162b13a698407684b6e134",
+        "bytes": 43509
+      },
+      "dogg_protocol": {
+        "sha256": "18151c1f9b01f90ebe2424d5262125e8a021edeefaff812ddd3ee8717f3bd922",
+        "bytes": 15681
+      }
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own canon outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock."
+  },
+  "payload_hash": "0d1f8c00e4de48749b7c3c5366af0f9814dc49dd3e6fcb4cf5babc02d53be084",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ae8170061ec86c5524adcfb9b374daa6263afe6ba313c521a095cef90c222a35"
+}
