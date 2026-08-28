@@ -60,3 +60,19 @@ can find it.
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `canon:@kody-w/dogg-canon` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of RAR constitution size, RAR constitution article count, rapp/1 SPEC size.
+
+```
+KNELL CAST PLINTH CROWN FORGE ZENITH ANTIDOTE ANVIL EMBODY THEME LARCH SEAL ENVOY SPARK
+```
+
+`dogg:1:14:BIALe6AAAU_TgB4KtZggbAAt`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALe6AAAU_TgB4KtZggbAAt](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALe6AAAU_TgB4KtZggbAAt)
+
+This chant carries three things: which dimension it names (`canon:@kody-w/dogg-canon`), which tick and frame it was cut from (tick 1, hash prefix `13f4e`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission canon:@kody-w/dogg-canon` for the latest.
