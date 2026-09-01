@@ -1,8 +1,8 @@
 {
-  "count": 6,
+  "count": 7,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "canon:@kody-w/dogg-canon",
-  "head_frame": "a79e4642b7249fc9ce37f2ced8ac859954c5b6065f7328ddb8ee722ac1806cf1",
-  "updated": "2026-08-31T13:11:27.948Z"
+  "head_frame": "73bc4bb45d3189d3d9c91530ed315488f087998f9ae46634687f98c06c738fb6",
+  "updated": "2026-09-01T11:23:27.230Z"
 }
