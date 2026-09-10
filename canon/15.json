@@ -1,0 +1,34 @@
+{
+  "spec": "rapp/1",
+  "kind": "canon.snapshot",
+  "stream_id": "canon:@kody-w/dogg-canon",
+  "seq": 15,
+  "utc": "2026-09-10T10:57:58.555Z",
+  "payload": {
+    "tick": 881,
+    "tick_frame": "2bf88282f2ffe0f6b2589ac0aa07b7de0c8534ff191ce0143fb69e411a37607f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T10:57:58.555Z",
+    "canon": {
+      "rar_constitution": {
+        "sha256": "400cab12c2032e07fe6bde5de0d27032b41af92be12bfd85519093a76898d470",
+        "bytes": 53222,
+        "articles": 22
+      },
+      "rapp1_spec": {
+        "sha256": "348e7d5baa94aaf2ce4c5354f3cb261f389298a04af65e271a686d3b62f7c384",
+        "bytes": 79692
+      },
+      "dogg_protocol": {
+        "sha256": "32a7ea9f5fd1f256163ec599fa445e60ab3aa35a0298da2ce80429e4c8ebea2b",
+        "bytes": 17560
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "15ad983de1f8075c4935b5abceceb0eb4cbf41e3c6f726525bdc9a8e10598b32",
+  "prev": "4b5b2724b93bfc6a7fc319c8a18843fc095206c60dfa5931e6070b8aac1414eb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c6a68c6a90f03528572631c6bc164a63166f8acf4d4a1ca5591e1172bed1189d"
+}
