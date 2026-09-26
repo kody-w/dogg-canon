@@ -1,5 +1,9 @@
 # dogg-canon — a federated node of the global tick network
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/dogg-canon.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/dogg-canon.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 **What our rules were, at each tick, provably.**
 
 This repo keeps its own append-only chain of rapp/1 frames in `canon/`. Once a day a
